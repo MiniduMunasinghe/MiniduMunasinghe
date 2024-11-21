@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Minidu Munasinghe
 
 I'm a motivated Information Technology undergraduate at **SLIIT** pursuing a **BSc (Hons) in IT**. I am passionate about applying academic knowledge and project experience in **Software Development**, **Web Development**, **Mobile App Development**, and **UI Design**. Skilled in problem-solving, teamwork, and delivering innovative technology solutions to achieve impactful results.
 
