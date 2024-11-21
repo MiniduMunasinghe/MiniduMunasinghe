@@ -1,4 +1,4 @@
-# Hi, I'm Minidu Munasinghe
+# Hi, I'm Minidu Munasinghe 👋
 
 I'm a motivated Information Technology undergraduate at **SLIIT** pursuing a **BSc (Hons) in IT**. I am passionate about applying academic knowledge and project experience in **Software Development**, **Web Development**, **Mobile App Development**, and **UI Design**. Skilled in problem-solving, teamwork, and delivering innovative technology solutions to achieve impactful results.
 
@@ -29,9 +29,14 @@ I'm a motivated Information Technology undergraduate at **SLIIT** pursuing a **B
 - **UI Designing and Development**: UI Design Skills, UI/UX Development
 - **Database**: MySQL, MS SQL
 
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiniduMunasinghe&hide=html&layout=compact)
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiniduMunasinghe&show_icons=true&count_private=true&hide_title=true&hide=prs)
+
 ## 📚 Education
 - **BSc (Hons) in Information Technology**  
   Sri Lanka Institute of Information Technology (SLIIT)
 
 Feel free to explore my repositories and connect with me! I’m always looking for exciting new projects and collaborations.
-
