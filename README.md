@@ -15,12 +15,12 @@ I'm a motivated Information Technology undergraduate at **SLIIT** pursuing a **B
 - ![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)
   
 ### **Tools & Frameworks**
-- ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-black?style=flat&logo=visualstudio)
+- ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-black?style=flat&logo=visualstudiocode)
 - ![Android Studio](https://img.shields.io/badge/-Android_Studio-black?style=flat&logo=android)
 - ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-black?style=flat&logo=intellijidea)
 - ![Eclipse IDE](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse)
 - ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-- ![R Studio](https://img.shields.io/badge/-R_Studio-black?style=flat&logo=rstudio)
+- ![RStudio](https://img.shields.io/badge/-RStudio-black?style=flat&logo=rstudio)
 
 ### **Development Areas**
 - **Web Development**: HTML, CSS, JavaScript, ReactJS, ExpressJS, NodeJS, MERN stack (MongoDB, Express, React, Node)
