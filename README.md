@@ -66,10 +66,9 @@
 <h3 align="center">Language Usage Breakdown:</h3>
 
 <p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiniduMunasinghe&theme=radical" alt="Languages by Repos" />
-  <br><br>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiniduMunasinghe&theme=radical" alt="Languages by Commit" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiniduMunasinghe&theme=radical&layout=compact&langs_count=100" alt="Minidu's Language Usage" />
 </p>
+
 
 ---
 
