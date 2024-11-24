@@ -1,42 +1,74 @@
-# Hi, I'm Minidu Munasinghe 👋
+<h3 align="center">Hello! I'm Minidu Munasinghe 👋</h3>
+<p align="center">🚀 I'm a motivated Information Technology undergraduate at **SLIIT** pursuing a **BSc (Hons) in IT**. I am passionate about applying academic knowledge and project experience in **Software Development**, **Web Development**, **Mobile App Development**, and **UI Design**. Skilled in problem-solving, teamwork, and delivering innovative technology solutions to achieve impactful results.
+</p>
 
-I'm a motivated Information Technology undergraduate at **SLIIT** pursuing a **BSc (Hons) in IT**. I am passionate about applying academic knowledge and project experience in **Software Development**, **Web Development**, **Mobile App Development**, and **UI Design**. Skilled in problem-solving, teamwork, and delivering innovative technology solutions to achieve impactful results.
+---
 
-## 🚀 Skills and Technologies
+<h3 align="center">Languages and Tools:</h3>
 
-### **Languages**
-- ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
-- ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
-- ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
-- ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-- ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-- ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin)
-- ![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)
-  
-### **Tools & Frameworks**
-- ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-black?style=flat&logo=visualstudiocode)
-- ![Android Studio](https://img.shields.io/badge/-Android_Studio-black?style=flat&logo=android)
-- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-black?style=flat&logo=intellijidea)
-- ![Eclipse IDE](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse)
-- ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-- ![RStudio](https://img.shields.io/badge/-RStudio-black?style=flat&logo=rstudio)
+<p align="center">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+</p>
 
-### **Development Areas**
-- **Web Development**: HTML, CSS, JavaScript, ReactJS, ExpressJS, NodeJS, MERN stack (MongoDB, Express, React, Node)
-- **Software Development**: Java, PHP, Kotlin, C++
-- **Mobile Application Development**: Android Studio, Kotlin, Java
-- **UI Designing and Development**: UI Design Skills, UI/UX Development
-- **Database**: MySQL, MS SQL
+---
 
-## 📊 GitHub Stats
+<h3 align="center">My GitHub Stats:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiniduMunasinghe&hide=html&layout=compact)
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiniduMunasinghe&show_icons=true&count_private=true&hide_title=true&hide=prs)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiniduMunasinghe&theme=radical&show_icons=true&count_private=true" alt="Minidu's GitHub Stats" />
+  <br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MiniduMunasinghe&theme=radical" alt="Minidu's Streak Stats" />
+</p>
 
-## 📚 Education
-- **BSc (Hons) in Information Technology**  
-  Sri Lanka Institute of Information Technology (SLIIT)
+---
 
-Feel free to explore my repositories and connect with me! I’m always looking for exciting new projects and collaborations.
+<h3 align="center">Language Usage Breakdown:</h3>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiniduMunasinghe&theme=radical&layout=compact&langs_count=100" alt="Minidu's Language Usage" />
+</p>
+
+---
+
+<h3 align="center">Achievements:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MiniduMunasinghe&theme=radical&margin-w=15&margin-h=15" alt="Minidu's Trophies" />
+</p>
