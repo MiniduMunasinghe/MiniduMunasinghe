@@ -5,6 +5,10 @@
   🧠 Skilled in problem-solving, teamwork, and delivering innovative technology solutions to achieve impactful results.  
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEdv0mR9NnsXZc0pW/giphy.gif" width="300" height="auto" alt="Coding Animation"/>
+</p>
+
 ---
 
 <h3 align="center">Languages and Tools:</h3>
@@ -56,9 +60,9 @@
 <h3 align="center">My GitHub Stats:</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiniduMunasinghe&theme=radical&show_icons=true&count_private=true" alt="Minidu's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiniduMunasinghe&theme=github&show_icons=true&count_private=true" alt="Minidu's GitHub Stats" />
   <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MiniduMunasinghe&theme=radical" alt="Minidu's Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MiniduMunasinghe&theme=github" alt="Minidu's Streak Stats" />
 </p>
 
 ---
@@ -66,14 +70,13 @@
 <h3 align="center">Languages I've Worked With</h3>
 
 <p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiniduMunasinghe&theme=radical" alt="Languages by Repositories" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiniduMunasinghe&theme=radical" alt="Languages by Commits" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiniduMunasinghe&theme=github" alt="Languages by Repositories" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiniduMunasinghe&theme=github" alt="Languages by Commits" />
 </p>
-
 
 ---
 
 <h3 align="center">Achievements:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MiniduMunasinghe&theme=radical&margin-w=15&margin-h=15" alt="Minidu's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MiniduMunasinghe&theme=github&margin-w=15&margin-h=15" alt="Minidu's Trophies" />
 </p>
