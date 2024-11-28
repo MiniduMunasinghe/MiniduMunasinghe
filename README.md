@@ -5,6 +5,10 @@
   🧠 Skilled in problem-solving, teamwork, and delivering innovative technology solutions to achieve impactful results.  
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/2sBzSHMG4cKvK/giphy.gif" width="300" height="auto" alt="Tech Animation"/>
+</p>
+
 ---
 
 <h3 align="center">Languages and Tools:</h3>
@@ -78,7 +82,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MiniduMunasinghe&theme=radical&margin-w=15&margin-h=15" alt="Minidu's Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif" width="300" height="auto" alt="Coding Animation"/>
-</p>
+
 
