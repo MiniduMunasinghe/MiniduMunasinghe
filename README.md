@@ -78,4 +78,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MiniduMunasinghe&theme=radical&margin-w=15&margin-h=15" alt="Minidu's Trophies" />
 </p>
 
-this is my github description in readme i have seen that some has like pictres or animations can you add a anmation to my description too and also can you chnage that pink into a ice green
+<p align="center">
+  <img src="https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif" width="300" height="auto" alt="Coding Animation"/>
+</p>
+
