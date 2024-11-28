@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2sBzSHMG4cKvK/giphy.gif" width="300" height="auto" alt="Tech Animation"/>
+  <img src="[https://media.giphy.com/media/2sBzSHMG4cKvK/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpmLbXDnhKiLxcdfVGGQqhkGkFVElemCIhEQ&s)" width="300" height="auto" alt="Tech Animation"/>
 </p>
 
 ---
