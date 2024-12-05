@@ -66,8 +66,8 @@
 <h3 align="center">Languages I've Worked With</h3>
 
 <p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiniduMunasinghe&theme=vue" alt="Languages by Repositories" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiniduMunasinghe&theme=vue" alt="Languages by Commits" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiniduMunasinghe&theme=github_dark" alt="Languages by Repositories" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiniduMunasinghe&theme=github_dark" alt="Languages by Commits" />
 </p>
 
 ---
