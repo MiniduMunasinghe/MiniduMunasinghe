@@ -52,34 +52,27 @@
 </p>
 
 ---
+
 <h3 align="center">My GitHub Stats:</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiniduMunasinghe&theme=radical&show_icons=true&count_private=true" alt="Minidu's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiniduMunasinghe&theme=merko&show_icons=true&count_private=true" alt="Minidu's GitHub Stats" />
   <br><br>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MiniduMunasinghe&theme=radical" alt="Minidu's Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MiniduMunasinghe&theme=vue" alt="Minidu's Streak Stats" />
 </p>
-
-</p>
-
 
 ---
 
 <h3 align="center">Languages I've Worked With</h3>
 
 <p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiniduMunasinghe&theme=radical" alt="Languages by Repositories" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiniduMunasinghe&theme=radical" alt="Languages by Commits" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiniduMunasinghe&theme=vue" alt="Languages by Repositories" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiniduMunasinghe&theme=vue" alt="Languages by Commits" />
 </p>
-
 
 ---
 
 <h3 align="center">Achievements:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MiniduMunasinghe&theme=radical&margin-w=15&margin-h=15" alt="Minidu's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MiniduMunasinghe&theme=onestar&margin-w=15&margin-h=15" alt="Minidu's Trophies" />
 </p>
-
-
-
