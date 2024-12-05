@@ -57,7 +57,10 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiniduMunasinghe&theme=radical&show_icons=true&count_private=true" alt="Minidu's GitHub Stats" />
   <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MiniduMunasinghe&theme=react&hide_border=true&ring=34D399&fire=34D399&currStreakLabel=34D399" alt="Minidu's Streak Stats" />
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MiniduMunasinghe&theme=radical" alt="Minidu's Streak Stats" />
+</p>
+
 </p>
 
 
